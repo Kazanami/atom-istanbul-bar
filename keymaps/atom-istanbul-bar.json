@@ -1,0 +1,5 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-o": "atom-istanbul-bar:toggle"
+  }
+}
