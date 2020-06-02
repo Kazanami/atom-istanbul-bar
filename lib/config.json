@@ -2,8 +2,8 @@
   "coverageFile": {
       "type": "string",
       "title": "Coverage File",
-      "description": "Set Coverage File in Project Folder. **Require Format: json-summary**",
-      "default": "C:\\Windows\\Web\\Wallpaper\\Windows\\img0.jpg"
+      "description": "Set Istanbul Coverage File in Project Folder. **Require Format: json-summary**",
+      "default": "coverage/coverage-summary.json"
   },
   "size": {
     "type": "string",
