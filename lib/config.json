@@ -1,0 +1,21 @@
+{
+  "coverageFile": {
+      "type": "string",
+      "title": "Coverage File",
+      "description": "Set Coverage File in Project Folder.
+      **Require Format: json-summary**",
+      "default": "C:\\Windows\\Web\\Wallpaper\\Windows\\img0.jpg"
+  },
+  "size": {
+    "type": "string",
+    "title": "Image Size",
+    "description": "Set Image Size",
+    "default": "30%"
+  },
+  "opacity": {
+    "type": "string",
+    "title": "opacity Mascot Charactor",
+    "description": "Set opacity on Mascot Charactor",
+    "default": "0.3"
+  }
+}
